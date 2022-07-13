@@ -1,2 +1,0 @@
-# devopsdemo
-GIT Exercise
